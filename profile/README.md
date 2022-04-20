@@ -1,8 +1,8 @@
-## Welcome to Finned's Open-Source Codebase!
+# Welcome to Finned's Open-Source Codebase!
 
 <br>
 
-#### Who are We?
+### Who We Are
 > Finned is an AI Startup company with the focus of improving leads on digital billboards using our cutting-edge Finned AI software. Finned's tool suite allows easy managing of content, ads, and billboards, and is constantly being updated! Check us out at https://finned.tech!
 
 <br>
