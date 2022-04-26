@@ -22,7 +22,7 @@
 <br>
 
 ## Contact
-> You can contact Finned at <a href="mailto:hello@finned.tech">hello@finned.tech</a> for business questions, complains, or just to talk!
+> You can contact Finned at <a href="mailto:hello@finned.tech">hello@finned.tech</a> for business questions, complaints, or just to talk!
 
 > Investors should reach out to us at <a href="mailto:investor@finned.tech">investor@finned.tech</a>, where we will respond with financial/investment related info as-needed
 
