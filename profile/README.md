@@ -10,7 +10,7 @@
 <br>
 
 ### About Our Codebase
-> Currently, we have 4 Public repos, each of which includes some code for our website. In addition to this, we mantain 4 more private repos, in which our backend, dashboard, and executable codes are stored, all of which we use to improve customer's advertising.
+> Currently, we have 4 Public repos, each of which includes some code for our website. In addition to this, we mantain more than 10 more private repos, in which our backend, dashboard, and executable codes are stored, all of which we use to improve customers' needs.
 
 > Our codebase is built with a mix of Python, NodeJS, and some web libraries such as <a href="https://tailwindcss.com">Tailwind CSS</a>. We accept any pull requests on out public repositories, and from verified Organizational members, we review pulls to our private repositories.
 
