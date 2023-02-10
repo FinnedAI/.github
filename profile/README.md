@@ -5,7 +5,9 @@
 ### Who We Are
 > Finned is an AI Data company focused on fostering a digitized future through comprehensive data analysis. The Finned platform functions as an all-in-one marketplace for Finned Applications, of which solutions for Digital Signage, Ad Recommendation and Visibility, and NCAA Performance are available. 
 
-> Finned focuses on building cutting edge applications for any sector, either by contract for another company, or for to expand upon the Finned platform. Our solutions help give companies in need of niche insights a method for analyzing, aggregating, or discovering them.
+> Finned focuses on building cutting edge applications for any sector, either by contract for another company, or to expand upon the Finned platform. Our solutions help give companies in need of niche insights a method for analyzing, aggregating, or discovering them.
+
+> Recently, Finned has expanded to the sports betting and fintech sectors. We're always open to spreading into new industries - we believe that there is good, actionable data in _every_ industry which has the potential to generate profit.
 
 <br>
 
