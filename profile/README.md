@@ -5,6 +5,8 @@
 ### Who We Are
 > Finned is an AI Data company focused on fostering a digitized future through comprehensive data analysis. The Finned platform functions as an all-in-one marketplace for Finned Applications, of which solutions for Digital Signage, Ad Recommendation and Visibility, and NCAA Performance are available. 
 
+> Apart from our proprietary technologies, Finned is dedicated to crowd-sourcing data access. We do this by automating public data sources - often the same ones used in our products! Our most popular open-source repo is HFT-EXT, an extensible high-frequency-trader which relies on the Alpaca API and Yahoo Finance data to make smart stock purchases and sells.
+
 > Finned focuses on building cutting edge applications for any sector, either by contract for another company, or to expand upon the Finned platform. Our solutions help give companies in need of niche insights a method for analyzing, aggregating, or discovering them.
 
 > Recently, Finned has expanded to the sports betting and fintech sectors. We're always open to spreading into new industries - we believe that there is good, actionable data in _every_ industry which has the potential to generate profit.
@@ -19,7 +21,7 @@
 <br>
 
 ## Contact
-> You can contact Finned at <a href="mailto:hello@finned.tech">hello@finned.tech</a> for business questions, complaints, or just to talk!
+> You can contact Finned at <a href="mailto:hello@finned.tech">hello@finned.tech</a> for business questions, complaints, or just to talk! If you are interested in hiring Finned to build your company's data solution, reach out to us at the same email.
 
 > Investors should reach out to us at <a href="mailto:investor@finned.tech">investor@finned.tech</a>, where we will respond with financial/investment related info as-needed
 
