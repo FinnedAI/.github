@@ -2,24 +2,19 @@
 
 <br>
 
-### Who We Are
-> Finned is an AI Data company focused on fostering a digitized future through comprehensive data analysis. The Finned platform functions as an all-in-one marketplace for Finned Applications, of which solutions for Digital Signage, Ad Recommendation and Visibility, and NCAA Performance are available. 
-
-> Apart from our proprietary technologies, Finned is dedicated to crowd-sourcing data access. We do this by automating public data sources - often the same ones used in our products! Our most popular open-source repo is HFT-EXT, an extensible high-frequency-trader which relies on the Alpaca API and Yahoo Finance data to make smart stock purchases and sells.
-
-> Finned focuses on building cutting edge applications for any sector, either by contract for another company, or to expand upon the Finned platform. Our solutions help give companies in need of niche insights a method for analyzing, aggregating, or discovering them.
-
-> Recently, Finned has expanded to the sports betting and fintech sectors. We're always open to spreading into new industries - we believe that there is good, actionable data in _every_ industry which has the potential to generate profit.
+### Sports betting, smarter.
+## The all-in-one AI platform for informed sports betting
+> Finned-tech offers a comprehensive analytics platform to help sports bettors make more informed and possible choices. We acknowledge that our platform couldn't exist without various open-source packages our platform relies on, so we work to give back to the community with our own contributions. Apart from the sports sector, we have published several fintech related works which can be found in our repositories.
 
 <br>
 
-### About Our Codebase
-> Currently, we have 4 Public repos, each of which includes some code for our website. In addition to this, we mantain more than 10 more private repos, in which our backend, dashboard, and executable codes are stored, all of which we use to improve customers' needs.
-
-> Our codebase is built with a mix of Python, NodeJS, and some web libraries such as <a href="https://tailwindcss.com">Tailwind CSS</a>. We accept any pull requests on out public repositories, and from verified Organizational members, we review pulls to our private repositories.
+### Finned-tech and generative AI
+## Explaining the FinnedGPT software
+> Outside of the traditional offering of straight picks on our platform, we also developed the FinnedGPT platform, a chatbot finetuned on 10 years of proprietary analysis, meetrics, and player statistics. If not for the great work of OpenAI with the GPT models, much of which is open source, and the amazing MindsDB platform on GitHub, this advancement into accessible betting could not have been made. For this, we thank these organizations and the wider open-source community.
 
 <br>
 
+### Get in touch
 ## Contact
 > You can contact Finned at <a href="mailto:hello@finned.tech">hello@finned.tech</a> for business questions, complaints, or just to talk! If you are interested in hiring Finned to build your company's data solution, reach out to us at the same email.
 
