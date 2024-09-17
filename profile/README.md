@@ -16,7 +16,7 @@
 
 ### Get in touch
 ## Contact
-> You can contact Finned at <a href="mailto:hello@finned.tech">hello@finned.tech</a> for business questions, complaints, or just to talk! If you are interested in hiring Finned to build your company's data solution, reach out to us at the same email.
+> You can contact Finned at <a href="mailto:hello@finned.ai">hello@finned.tech</a> for business questions, complaints, or just to talk! If you are interested in hiring Finned to build your company's data solution, reach out to us at the same email.
 
-> Investors should reach out to us at <a href="mailto:investor@finned.tech">investor@finned.tech</a>, where we will respond with financial/investment related info as-needed
+> Investors should reach out to us at <a href="mailto:investor@finned.ai">investor@finned.tech</a>, where we will respond with financial/investment related info as-needed
 
