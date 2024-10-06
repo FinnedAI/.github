@@ -4,7 +4,7 @@
 
 ### Sports betting, smarter.
 ## The all-in-one AI platform for informed sports betting
-> Finned-tech offers a comprehensive analytics platform to help sports bettors make more informed and possible choices. We acknowledge that our platform couldn't exist without various open-source packages our platform relies on, so we work to give back to the community with our own contributions. Apart from the sports sector, we have published several fintech related works which can be found in our repositories.
+> FinnedAI offers a comprehensive analytics platform to help sports bettors make more informed and possible choices. We acknowledge that our platform couldn't exist without various open-source packages our platform relies on, so we work to give back to the community with our own contributions. Apart from the sports sector, we have published several fintech related works which can be found in our repositories.
 
 <br>
 
