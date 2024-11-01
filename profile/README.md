@@ -1,22 +1,50 @@
-# Welcome to Finned's Open-Source Codebase!
+# EQULS: The Transparent Sports Betting Marketplace
 
-<br>
+Welcome to **EQULS**, the most secure, transparent, and user-centered sports betting marketplace. Whether you’re a bettor looking for expert insights or a handicapper wanting to share your expertise, EQULS offers a trustworthy platform for buying and selling sports picks with confidence.
 
-### Sports betting, smarter.
-## The all-in-one AI platform for informed sports betting
-> FinnedAI offers a comprehensive analytics platform to help sports bettors make more informed and possible choices. We acknowledge that our platform couldn't exist without various open-source packages our platform relies on, so we work to give back to the community with our own contributions. Apart from the sports sector, we have published several fintech related works which can be found in our repositories.
+## Our Mission
+Our mission is to empower sports bettors by creating a safe and transparent marketplace that values verified performance, trust, and accountability. We connect bettors and sellers through a secure platform where all performance records are authenticated, ensuring a fair experience for everyone.
 
-<br>
+## Key Features
 
-### Finned-tech and generative AI
-## Explaining the FinnedGPT software
-> Outside of the traditional offering of straight picks on our platform, we also developed the FinnedGPT platform, a chatbot finetuned on 10 years of proprietary analysis, meetrics, and player statistics. If not for the great work of OpenAI with the GPT models, much of which is open source, and the amazing MindsDB platform on GitHub, this advancement into accessible betting could not have been made. For this, we thank these organizations and the wider open-source community.
+### For Buyers
+- **Verified Picks**: Only buy picks from handicappers with validated records, ensuring transparent and reliable betting advice.
+- **Performance Tracking**: Gain insights into the historical performance of each seller, helping you make informed choices.
+- **Advanced Search**: Find picks for specific sports, games, and bet types quickly.
+- **Leaderboard and Stats**: See who the top handicappers are with public leaderboards that keep everything transparent.
 
-<br>
+### For Sellers
+- **Monetize Your Expertise**: Sell picks with zero financial risk, reaching a growing audience of sports bettors.
+- **Build Credibility**: Verified results and personal profiles help handicappers stand out, building trust and reducing competition.
+- **Real-Time Analytics**: Free analytics provide in-depth insights into your picks’ performance, helping you improve your strategy and optimize earnings.
+- **No Cost to Join**: Enjoy free access to EQULS with no subscription fees; EQULS only takes a small fee on each transaction.
 
-### Get in touch
-## Contact
-> You can contact Finned at <a href="mailto:hello@finned.ai">hello@finned.tech</a> for business questions, complaints, or just to talk! If you are interested in hiring Finned to build your company's data solution, reach out to us at the same email.
+## Getting Started
 
-> Investors should reach out to us at <a href="mailto:investor@finned.ai">investor@finned.tech</a>, where we will respond with financial/investment related info as-needed
+1. **Download the EQULS App**: Available on iOS and Android for a seamless betting experience.
+2. **Search & Buy**: Browse verified picks from top handicappers across various sports and bet types.
+3. **Sell with Confidence**: Set up your profile and start selling without any barriers to entry, benefiting from EQULS’s secure and credible environment.
 
+## Why Choose EQULS?
+EQULS stands out by prioritizing user trust and transparency. We are neither a sportsbook nor an affiliate site; we are an independent platform dedicated to creating an honest, transparent sports betting marketplace. EQULS supports users in tracking their own performance, earning rewards, and making data-driven decisions.
+
+### Our Core Principles
+- **Transparency**: All transactions and stats are visible to users, backed by verified data.
+- **Protection & Accountability**: We prohibit deceptive practices, logging and safeguarding every prediction.
+- **Performance-Driven Rewards**: Top handicappers are rewarded for their reliability and accuracy.
+- **Integrity First**: We strive for an ethical betting marketplace that respects user safety and fairness.
+
+## Open Source Commitment
+
+EQULS believes in the power of open-source to create and maintain secure, user-centered technologies. Our commitment to open-source allows us to continuously innovate while benefiting from community input and collaboration. Developers can access our API, contribute to enhancements, and join us in building the future of safe and transparent sports betting.
+
+- **Developer API**: Access tools and resources for seamless integrations.
+- **Community Contributions**: Suggest new features, report issues, and collaborate with other contributors to improve the platform.
+- **Open-Source Benefits**: Our commitment to transparency extends to our development process, fostering trust and community-led innovation.
+
+## Download the App
+Unlock the full potential of EQULS. [Download on iOS](#) and [Download on Android](#) to start exploring the future of sports betting.
+
+---
+
+For more information, visit our [Website](https://eqlus.com), follow us on social media, or reach out to our support team for assistance.
