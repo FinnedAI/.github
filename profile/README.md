@@ -43,8 +43,8 @@ EQULS believes in the power of open-source to create and maintain secure, user-c
 - **Open-Source Benefits**: Our commitment to transparency extends to our development process, fostering trust and community-led innovation.
 
 ## Download the App
-Unlock the full potential of EQULS. [Download on iOS](#) and [Download on Android](#) to start exploring the future of sports betting.
+Unlock the full potential of EQULS. [Download on iOS](https://download.equls.com/ios) and [Download on Android](https://download.equls.com/android) to start exploring the future of sports betting.
 
 ---
 
-For more information, visit our [Website](https://eqlus.com), follow us on social media, or reach out to our support team for assistance.
+For more information, visit our [Website](https://equls.com), follow us on social media, or reach out to our support team for assistance.
